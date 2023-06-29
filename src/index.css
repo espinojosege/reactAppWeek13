@@ -69,6 +69,14 @@ body #body .login {
   align-self: center;
   padding: 0;
 }
+body #body .video {
+  text-align: center;
+  /*display: ;*/
+  /*border: 0.2rem solid black;*/
+  /*vertical-align: bottom;*/
+  align-self: center;
+  padding: 0;
+}
 
 h3 {
   padding: 0;

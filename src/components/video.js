@@ -5,7 +5,7 @@ export default class Video extends React.Component {
   render() {
     return (
       <div className="video">
-        <video controls width="100%" src={video1} />
+        <video controls width="70%" src={video1} />
       </div>
     );
   }
