@@ -9,6 +9,7 @@ export default class Loging extends React.Component {
         <h3>Log In</h3>
         <Username />
         <Password />
+        <button type="button">&gt; Log In &lt;</button>
       </div>
     );
   }
